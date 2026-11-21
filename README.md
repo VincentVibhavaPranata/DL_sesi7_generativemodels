@@ -6,8 +6,7 @@ Tugas Take-Home Deep Learning (D6421) Sesi 07, BINUS University.
 
 ## Penulis
 - Nama: Vincent Vibhava Pranata
-- NIM: ISI_NIM
-- Kelas: ISI_KELAS
+- NIM: 2802415523
 
 ## Model
 | Model | Loss utama | Catatan |
